@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "mobile-track-stage-0-task",
-    "slug": "mobile-track-stage-0-task",
+    "name": "Toolkit App",
+    "slug": "Toolkit-App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/app-logo-alt.svg",
     "scheme": "mobiletrackstage0task",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,10 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
-        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+        "backgroundColor": "#E6F4FE"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
@@ -24,7 +21,7 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/app-logo-alt.svg"
     },
     "plugins": [
       "expo-router",

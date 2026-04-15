@@ -1,7 +1,7 @@
-import { Tabs } from "expo-router";
-import { Colors } from "../../constants/Colors";
 import FontAwesome from "@expo/vector-icons/FontAwesome";
+import { Tabs } from "expo-router";
 import React from "react";
+import { Colors } from "../../constants/Colors";
 
 export default function TabLayout() {
   return (
@@ -50,6 +50,13 @@ export default function TabLayout() {
         options={{
           title: 'Tip Split',
           tabBarIcon: ({ color }) => <FontAwesome size={24} name="money" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="tasks"
+        options={{
+          title: 'Tasks',
+          tabBarIcon: ({ color }) => <FontAwesome size={24} name="check-square" color={color} />,
         }}
       />
     </Tabs>

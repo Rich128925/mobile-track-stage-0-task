@@ -47,4 +47,34 @@ To learn more about developing your project with Expo, look at the following res
 Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+
+## Smart Utility Toolkit Enhancements
+
+This project now includes a **Task Manager** feature that lets users:
+
+- add checklist tasks,
+- mark tasks as completed,
+- edit or delete tasks,
+- and persist data locally for offline use.
+
+### Running the app
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+2. Start Expo:
+
+```bash
+npx expo start
+```
+
+3. Open the app in Expo Go, Android emulator, or iOS simulator.
+
+### Notes
+
+- Task data is stored locally using AsyncStorage.
+- The task manager is available under the new **Tasks** tab in the bottom navigation.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.

@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title>Smart Utility Toolkit Alternate Logo</title>
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d9bf0"/>
+      <stop offset="100%" stop-color="#12c89e"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="40" width="432" height="432" rx="96" fill="url(#grad2)"/>
+  <path d="M144 160h224a24 24 0 0 1 24 24v24a24 24 0 0 1-24 24H144a24 24 0 0 1-24-24v-24a24 24 0 0 1 24-24z" fill="#fff" opacity="0.92"/>
+  <path d="M144 256h192a24 24 0 0 1 24 24v24a24 24 0 0 1-24 24H144a24 24 0 0 1-24-24v-24a24 24 0 0 1 24-24z" fill="#fff" opacity="0.86"/>
+  <path d="M144 352h128a24 24 0 0 1 24 24v24a24 24 0 0 1-24 24H144a24 24 0 0 1-24-24v-24a24 24 0 0 1 24-24z" fill="#fff" opacity="0.8"/>
+  <polyline points="280 176 324 224 420 132" fill="none" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="388" cy="204" r="50" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="372" cy="188" r="12" fill="#fff"/>
+  <path d="M280 136l60 64" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+</svg>
