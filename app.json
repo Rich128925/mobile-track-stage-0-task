@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "Toolkit App",
-    "slug": "Toolkit-App",
+    "slug": "mobile-track-stage-0-task",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/app-logo-alt.svg",
+    "icon": "./assets/images/app-logo-alt.png",
     "scheme": "mobiletrackstage0task",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -21,7 +21,7 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/app-logo-alt.svg"
+      "favicon": "./assets/images/app-logo-alt.png"
     },
     "plugins": [
       "expo-router",
